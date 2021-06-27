@@ -1,17 +1,17 @@
-# hexo-generator-index
+# hexo-generator-file-index
 
-[![Build Status](https://github.com/hexojs/hexo-generator-index/workflows/Tester/badge.svg?branch=master)](https://github.com/hexojs/hexo-generator-index/actions?query=workflow%3ATester)
-[![NPM version](https://badge.fury.io/js/hexo-generator-index.svg)](https://www.npmjs.com/package/hexo-generator-index)
-[![Coverage Status](https://img.shields.io/coveralls/hexojs/hexo-generator-index.svg)](https://coveralls.io/r/hexojs/hexo-generator-index?branch=master)
+[![Build Status](https://github.com/guorant/hexo-generator-file-index/workflows/Tester/badge.svg?branch=master)](https://github.com/guorant/hexo-generator-file-index/actions?query=workflow%3ATester)
+[![NPM version](https://badge.fury.io/js/hexo-generator-file-index.svg)](https://www.npmjs.com/package/hexo-generator-file-index)
+[![Coverage Status](https://img.shields.io/coveralls/guorant/hexo-generator-file-index.svg)](https://coveralls.io/r/hexojs/hexo-generator-file-index?branch=master)
 
-Index generator for [Hexo].
+Index generator for [Hexo] with user define markdown file.
 
 It generates an archive of posts on your homepage, according to the `index` or `archive` layout of your theme.
 
 ## Installation
 
 ``` bash
-$ npm install hexo-generator-index --save
+$ npm install hexo-generator-file-index --save
 ```
 
 ## Options

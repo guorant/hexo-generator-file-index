@@ -1,7 +1,7 @@
 {
-  "name": "hexo-generator-index",
-  "version": "2.0.0",
-  "description": "Index generator for Hexo.",
+  "name": "hexo-generator-file-index",
+  "version": "1.0.0",
+  "description": "Index generator for Hexo with user define markdown file.",
   "main": "index",
   "scripts": {
     "eslint": "eslint .",
@@ -18,15 +18,18 @@
   "engines": {
     "node": ">=12.9.0"
   },
-  "repository": "hexojs/hexo-generator-index",
+  "repository": "hexojs/hexo-generator-file-index",
   "homepage": "http://hexo.io/",
   "keywords": [
     "hexo",
     "generator",
     "index",
-    "home"
+    "home",
+    "file",
+    "markdown",
+    "user define"
   ],
-  "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
+  "author": "yujunlong2000 <yujunlong2000@gmail.com> (http://srxy.lz5000.com)",
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.2.0",
